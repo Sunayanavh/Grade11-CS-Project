@@ -1,2 +1,2 @@
-# FINAL-COMPS-PROJECT
-travel planner
+# class11_project
+Travel Planner
